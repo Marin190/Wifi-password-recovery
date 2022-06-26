@@ -6,3 +6,5 @@ Works only on:
   - windows
   - French or English system
   - only on wifi connect
+
+only need subprocess : pip install subprocess
